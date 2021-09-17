@@ -2,7 +2,7 @@
 
 Hi! I'm **Luis Romero** and I _love_ everything about this _digital world_.
 
-<img align="right" alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/869622942840726135/8A7D54C64EB8DD14443658200E14B059E653C722/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="380" height="180" />
+<img align="right" alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/869622942840726135/8A7D54C64EB8DD14443658200E14B059E653C722/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="380" height="190" />
 Here are some areas where I specialize:
 
 - 🔮 Programmer
@@ -15,8 +15,8 @@ Here are some areas where I specialize:
 
 <div>
   <a href="https://github.com/LuisRomero19">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuisRomero19&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisRomero19&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="150.2em" src="https://github-readme-stats.vercel.app/api?username=LuisRomero19&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="150.2em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisRomero19&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
  <div style="display: inline_block"><br>
   <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
