@@ -2,7 +2,7 @@
 
 Hi! I'm **Luis Romero** and I _love_ everything about this _digital world_.
  
-<img align="right" alt="Luis-Logo" src="http://i.picasion.com/resize91/1350a5350aedbf017f70b84b30899d47.gif">
+<img align="right" alt="Luis-Logo" src="https://i.picasion.com/pic91/c73ffae1cf7f8e5856799e6edbf554bc.gif">
 
 Here are some areas where I specialize:
 
