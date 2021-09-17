@@ -1,4 +1,4 @@
-<h2 align="center"> ¡Hola a todos colegas!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2 align="center"> ¡Hola a todos!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 Hi! I'm **Luis Romero** and I _love_ everything about this _digital world_.
 
