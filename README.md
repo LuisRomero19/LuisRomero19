@@ -1,4 +1,4 @@
-## ¡Hola a todos! 🤗
+# ¡Hola a todos! 🤗
 
 Hi! I'm **Luis Romero** and I _love_ everything about this _digital world_.
 
