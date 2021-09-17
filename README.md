@@ -2,7 +2,7 @@
 
 Hi! I'm **Luis Romero** and I _love_ everything about this _digital world_.
 
-<img align="right" alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/869622942840726135/8A7D54C64EB8DD14443658200E14B059E653C722/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="400" height="210" />
+<img align="right" alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/869622942840726135/8A7D54C64EB8DD14443658200E14B059E653C722/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="380" height="180" />
 Here are some areas where I specialize:
 
 - 🔮 Programmer
