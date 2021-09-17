@@ -1,22 +1,21 @@
-### Hi there 👋
+## ¡Hola a todos! 🤗
 
-<!--
-**LuisRomero19/LuisRomero19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm **Luis Romero** and I _love_ everything about this _digital world_.
+ 
+<img align="right" height="210em" src="https://github-readme-stats.vercel.app/api?username=LuisRomero19&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
 
-Here are some ideas to get you started:
+Here are some areas where I specialize:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔮 Programmer
+- 🔮 Database Administrator
+- 🔮 Full-stack Developer
+- 🔮 Tester
+- 🔮 Quality Assurance
+- 🔮 UX/UI Designer
+- 🔮 Artificial Intelligence
+
 <div>
-  <a href="https://github.com/LuisRomero19">
-  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=LuisRomero19&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/LuisRomero19"> 
   <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisRomero19&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
  <div style="display: inline_block"><br>
