@@ -2,7 +2,7 @@
 
 Hi! I'm **Luis Romero** and I _love_ everything about this _digital world_...
 
-<img align="right" alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/869622942840726135/8A7D54C64EB8DD14443658200E14B059E653C722/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="380" height="190" />
+<img align="right" alt="GIF" src="https://github.com/LuisRomero19/LuisRomero19/blob/main/Gifts/vaporwave-cowboy.gif" width="380" height="190" />
 Here are some areas where I specialize:
 
 - 🔮 Programmer
@@ -36,7 +36,7 @@ Here are some areas where I specialize:
   <img align="center" alt="Luis-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Luis-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"> 
    
-  <img align="right" alt="Luis-logo" src="http://i.picasion.com/resize91/f0c0ae9c6ec0d237be8859fd60440e4c.gif">
+  <img align="right" alt="Luis-logo" src="https://github.com/LuisRomero19/LuisRomero19/blob/main/Gifts/vaporwave.gif">
 </div>
   
   ##
