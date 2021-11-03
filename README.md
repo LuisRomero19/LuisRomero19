@@ -15,8 +15,8 @@ Here are some areas where I specialize:
 
 <div>
   <a href="https://github.com/LuisRomero19">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=LuisRomero19&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisRomero19&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="146em" src="https://github-readme-stats.vercel.app/api?username=LuisRomero19&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="146em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisRomero19&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
  <div style="display: inline_block"><br>
   <img align="center" alt="Luis-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
